@@ -1,0 +1,11 @@
+{
+  "name": "nodeChat",
+  "version": "0.0.1",
+  "description": "Simple Game Server",
+  "dependencies": {
+    "mime": "",
+    "ws":""
+  },
+  "author": "jommy",
+  "license": "MIT"
+}
